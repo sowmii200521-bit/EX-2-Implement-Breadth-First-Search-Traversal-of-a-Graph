@@ -82,10 +82,11 @@ Enter the starting node for BFS: A
 
 BFS Traversal Order: ['A', 'B', 'C']
 
-### Input and Output:
+### Input:
+<img width="535" height="134" alt="image" src="https://github.com/user-attachments/assets/9da502a0-594c-4a77-8d4d-e609cc5dacb3" />
 
-<img width="659" height="491" alt="image" src="https://github.com/user-attachments/assets/78fa3c49-3c71-4ed5-b51b-df75b20d7eea" />
-
+### Output:
+<img width="456" height="48" alt="image" src="https://github.com/user-attachments/assets/74a25b15-13cd-4b01-a90b-05d33a9dee5e" />
 
 ### Result:
 
