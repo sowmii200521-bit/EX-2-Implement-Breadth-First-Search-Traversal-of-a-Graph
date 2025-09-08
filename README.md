@@ -1,8 +1,8 @@
 # EX-2: Implement-Breadth-First-Search-Traversal-of-a-Graph
 
-**Name:**
+**Name:** LOGESH S
 
-**Register Number:**
+**Register Number:** 2305001014
 
 ### Aim:
 To Implement Breadth First Search Traversal of a Graph using Python 3.
