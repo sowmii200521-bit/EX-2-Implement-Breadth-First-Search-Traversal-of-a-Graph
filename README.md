@@ -1,8 +1,9 @@
 # EX-2: Implement-Breadth-First-Search-Traversal-of-a-Graph
 
-**Name:** SOWMIYA G
+**Name:** LOGESH S
 
-**Register Number:** 2305002023
+**Register Number:** 2305001014
+
 
 ### Aim:
 To Implement Breadth First Search Traversal of a Graph using Python 3.
