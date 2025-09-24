@@ -1,8 +1,8 @@
 # EX-2: Implement-Breadth-First-Search-Traversal-of-a-Graph
 
-**Name:** LOGESH S
+**Name:** SOWMIYA G
 
-**Register Number:** 2305001014
+**Register Number:** 2305002023
 
 
 ### Aim:
